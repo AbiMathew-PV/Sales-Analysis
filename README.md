@@ -1,2 +1,15 @@
-# Sales-Analysis
-Created a powerBI dashboard for sales analysis by using real time data
+## Sales Analysis Dashboard – Power BI
+
+### Objective
+Analyze grocery shop sales data to identify trends and improve decision-making.
+
+### Tools Used
+- Power BI
+- Q/A
+
+### Key Insights
+- Sum of sales by payment
+- Sum of sales by data
+- Category-wise Sales
+
+
